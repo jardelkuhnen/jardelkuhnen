@@ -88,4 +88,10 @@ I ❤️ software !
   </tbody>
 </table>
 
+  ### :computer: Os Meus Status do Github
+
+  ![Jardel Back Kuhnen github stats](https://github-readme-stats.vercel.app/api?username=jardelkuhnen&show_icons=true)
+
+
+
 
