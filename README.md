@@ -13,7 +13,7 @@
 
 I ❤️ software !
 
-:computer: Software Developer, currently based in Brazil, at Ambev Tech. 
+:computer: Software Developer, currently based in Brazil, at Mercado Livre. 
 
 :writing_hand: Enthusiastic about developing technologies that help the world to be better.
 
